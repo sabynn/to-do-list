@@ -94,7 +94,7 @@ class AboutMe extends StatelessWidget {
                           const Padding(
                             padding: EdgeInsets.all(8.0),
                             child: Text(
-                              "Berkhayal di isekai :)",
+                              "Menonton film/drama",
                               style: TextStyle(fontSize: 15.0),
                             ),
                           ),
