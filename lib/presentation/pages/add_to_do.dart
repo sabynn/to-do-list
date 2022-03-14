@@ -95,7 +95,7 @@ class _AddToDoMainState extends State<AddToDoMain> {
     if (picked != null) {
       setState(() {
         selectedTime = picked;
-        timeController.text = '$picked'.substring(11, 15);
+        timeController.text = '$picked'.substring(10, 15);
       });
     }
   }
@@ -103,7 +103,7 @@ class _AddToDoMainState extends State<AddToDoMain> {
   @override
   Widget build(BuildContext context) {
     dateController.text = selectedDate.toString().substring(0, 10);
-    timeController.text = selectedTime.toString().substring(11, 15);
+    timeController.text = selectedTime.toString().substring(10, 15);
 
     Widget title() {
       return Container(
