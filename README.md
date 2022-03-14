@@ -1,5 +1,5 @@
 # TO DO LIST ✔
-This app in a to-do list app that allows user to add to-do, delete to-do, bookmark to-do, and  check them off after finishing the to-do.
+This app is a to-do list app that allows user to add to-do, delete to-do, bookmark to-do, and  check them off after finishing the to-do.
 
 ## Features
 - [x] Add task
