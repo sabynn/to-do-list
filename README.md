@@ -1,4 +1,6 @@
 # TO DO LIST ✔
+> This app is my submission for the recruitment task of RISTEK 2022 Mobile Development SIG
+
 This app is a to-do list app that allows user to add to-do, delete to-do, bookmark to-do, and  check them off after finishing the to-do.
 
 ## Features
